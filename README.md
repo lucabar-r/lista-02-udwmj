@@ -10,13 +10,13 @@ Repositório criado para a entrega da Lista de Exercícios II da disciplina de U
 
 Este projeto contém uma página web (`index.html`) e um arquivo de estilos (`style.css`) que agrupam os 7 exercícios práticos solicitados de estruturação e estilização[cite: 2]:
 
-*   **Exercício 1:** Cartão de Visitas Digital[cite: 2]
-*   **Exercício 2:** Perfil de Personagem[cite: 2]
-*   **Exercício 3:** Receita Simples[cite: 2]
-*   **Exercício 4:** Botão Estilizado[cite: 2]
-*   **Exercício 5:** Bloco de Destaque (Card de Notícia)[cite: 2]
-*   **Exercício 6:** Tabela de Preços Simples[cite: 2]
-*   **Exercício 7:** Rodapé de Site (Footer)[cite: 2]
+*   **Exercício 1:** Cartão de Visitas Digital
+*   **Exercício 2:** Perfil de Personagem
+*   **Exercício 3:** Receita Simples
+*   **Exercício 4:** Botão Estilizado
+*   **Exercício 5:** Bloco de Destaque (Card de Notícia)
+*   **Exercício 6:** Tabela de Preços Simples
+*   **Exercício 7:** Rodapé de Site (Footer)
 
 ## Tecnologias Utilizadas
 * HTML5
