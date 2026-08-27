@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+hr {
+    margin: 40px 0;
+    border: 1px solid #ddd;
+}
+
+.cartao-visita {
+    text-align: center;
+}
+.cartao-visita ul {
+    list-style: none;
+    padding: 0;
+}
+.cartao-visita li {
+    display: inline;
+    margin: 0 10px;
+}
+
+.perfil-personagem {
+    font-family: 'Courier New', Courier, monospace;
+}
+.perfil-personagem img {
+    width: 300px;
+    border-radius: 15px;
+}
+
+.lista-receita {
+    color: #0056b3;
+}
+
+.botao-interativo {
+    text-decoration: none;
+    background-color: #28a745;
+    color: white;
+    padding: 12px 24px;
+    display: inline-block;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.botao-interativo:hover {
+    background-color: #218838;
+}
+
+.card-noticia {
+    background-color: #e9ecef;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    max-width: 500px;
+    padding: 15px;
+}
+
+table {
+    width: 100%;
+    max-width: 600px;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #999;
+    padding: 10px;
+    text-align: center;
+}
+th {
+    background-color: #007bff;
+    color: white;
+}
+
+footer {
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+}
+footer a {
+    color: #4da6ff;
+    text-decoration: none;
+}
